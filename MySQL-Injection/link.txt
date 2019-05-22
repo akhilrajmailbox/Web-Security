@@ -1,0 +1,11 @@
+demo example ::
+https://www.youtube.com/watch?v=ciNHn38EyRc
+
+Basics ::
+https://www.w3schools.com/sql/sql_injection.asp
+https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005)#Detection_Techniques
+
+
+https://www.veracode.com/security/sql-injection
+https://resources.infosecinstitute.com/best-free-and-open-source-sql-injection-tools/#gref
+

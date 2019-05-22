@@ -1,0 +1,8 @@
+Dos and DDos attack
+https://www.cloudflare.com/learning/ddos/ddos-attack-tools/how-to-ddos/
+
+https://github.com/rakyll/hey
+hey -n 50000 -c 1000 http://3.81.77.25
+
+
+https://www.cloudflare.com/learning/ddos/ddos-attack-tools/how-to-ddos/
